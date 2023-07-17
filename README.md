@@ -1,7 +1,7 @@
 # speedfanreader
  
 Written in C++, reads the shared memory area of Speedfan 4.5.2 and extracts the temperatures dynamically, original code by Christopher Vagnetoft. 
-modified by Dean Beedell and Harry Whitfield.
+Modified by Dean Beedell and Harry Whitfield. We are not claiming this code as our own, the reason it is being posted here is that we cannot find it anywhere on the web anymore. You will find two versions of the code here. One is Vagnetoft's, the other is CapnBry's code, untried and untested. 
 
 Built using: 
 
