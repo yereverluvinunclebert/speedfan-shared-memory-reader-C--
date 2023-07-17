@@ -25,3 +25,5 @@ Free to use and reuse under the GNU Public License (GPL) v2.
 Note: This is probably the only sample available on the internet on how to
 access SpeedFans shared memory using C++. Disturbing, isn't it? 
 
+PS. I just found another here: https://forum.kodi.tv/printthread.php?tid=52446
+
