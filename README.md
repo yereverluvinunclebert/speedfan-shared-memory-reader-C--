@@ -7,7 +7,7 @@ Built using:
 
 Embaracadero Dev C++ 6.3
 
-I use this program in conjunction with Speedfan 4.5.2 and my Steampunk CPU/GPU Thermometers widget that you can find here:
+I use this program in conjunction with Speedfan 4.52 and my Steampunk CPU/GPU Thermometers widget that you can find here:
 https://github.com/yereverluvinunclebert/Steampunk-CPU_GPU-Speedfan-Thermometer
 
 A picture of same below:
@@ -16,14 +16,11 @@ A picture of same below:
 
 
 
-SpeedFan Information Tool 1.0
+"SpeedFan Information Tool 1.0
 Retrieves temperature information from SpeedFan and outputs it to the console.
 
-(c) 2008, Christopher Vagnetoft
-Free to use and reuse under the GNU Public License (GPL) v2.
-
 Note: This is probably the only sample available on the internet on how to
-access SpeedFans shared memory using C++. Disturbing, isn't it? 
+access SpeedFans shared memory using C++. Disturbing, isn't it?"
 
 PS. I just found another here: https://forum.kodi.tv/printthread.php?tid=52446
 
