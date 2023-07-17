@@ -14,7 +14,13 @@ A picture of same below:
 
 ![steampunk_cpu_gpu_thermometer_widget_for_speedfan_by_yereverluvinuncleber_d4lri07-375w-2x](https://github.com/yereverluvinunclebert/speedfan-shared-memory-reader-C--/assets/2788342/c89110ec-0f26-4d46-b1d8-0b1b6e051366)
 
+Usage:
 
+The shared memory area as created by Speedfan, does not display the names of the sensors so you have to derive this yourself. In order to do this you need to enable Speedfan logging. In Speedfan, select configuration - log and click the check box to enable logging. This creates a logging file containing the speedfan sensor names as identified by Speedfan:
+
+speedfansens.cfg
+
+Use this file to correlate the temperature data as received from Speedfan.
 
 "SpeedFan Information Tool 1.0
 Retrieves temperature information from SpeedFan and outputs it to the console.
